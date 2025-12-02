@@ -1,7 +1,7 @@
 Automated Scientific Data Processing Pipeline
 A simple Python ETL (Extract, Transform, Load) pipeline that reads data from multiple sources, cleans and processes it, and loads it into a MySQL database.
 
-Project Description
+Project Description:
 This project automates the process of:
 
 Extracting data from CSV, Excel, and JSON files
